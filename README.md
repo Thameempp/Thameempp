@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
 ### 👨‍💻 Machine Learning Engineer  
 - Specializing in **Deep Learning, NLP & Computer Vision**
