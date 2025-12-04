@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 
 ### 👨‍💻 Machine Learning Engineer  
 - Specializing in **Deep Learning, NLP & Computer Vision**
@@ -29,16 +29,6 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,linux,vue,docker,git,aws,gcp,postgres,arduino,raspberrypi,github,android,ios,bash,ts,react,graphql,windows,babel,webpack,pwa" />
 </p>
-
----
-
-## 📊 Commit Activity Per Time of Day  
-*(currently blank because 3D contrib file not generated yet)*
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Thameempp/master/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
-
 
 ---
  
