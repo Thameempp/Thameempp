@@ -1,10 +1,5 @@
 # 👋 Hi, I'm **Thameem**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/pxy0G4C0BwGnK/giphy.gif" width="420" />
-</p>
-
----
 
 <p align="center">
   <img src="https://media1.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif" width="300" />
