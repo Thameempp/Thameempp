@@ -36,19 +36,9 @@
 *(currently blank because 3D contrib file not generated yet)*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Thameempp/Thameempp/master/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/Thameempp/master/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
-> If it shows empty: you must enable **GitHub Actions** to generate the 3D file.
 
 ---
-
-## 🧊 3D Contributions Calendar
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thameempp&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-⭐ If you like my work, consider starring my repositories!  
+ 
