@@ -18,7 +18,7 @@
 ## 📊 Commit Activity Per Time of Day
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Thameempp/Thameempp/master/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/Thameempp/master/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
 
@@ -27,9 +27,7 @@
 ## 🧊 3D Contributions Calendar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/activity-graph.png" />
+  <img src="https://raw.githubusercontent.com/Thameempp/github-readme-activity-graph/master/activity-graph.png" />
 </p>
 
 ---
-
-### ⭐ If you like my work, consider starring my repositories!
