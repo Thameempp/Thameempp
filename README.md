@@ -4,13 +4,11 @@
 <table>
 <tr>
 <td width="60%">
-
-### 👨‍💻 Machine Learning Engineer  
-- Specializing in **Deep Learning, NLP & Computer Vision**
-- Building **real-world AI solutions** using Data + Models + Deployment  
-- Skilled in **MLOps, Cloud, Containerization & Production ML**
-- Passionate about **automation, model optimization & scalable AI systems**
-- Exploring **GenAI, Multi-Agent Systems, LLM Fine-Tuning**
+### Machine Learning Engineer
+- Deep Learning, NLP & Computer Vision  
+- NumPy & Pandas for data transformation and numerical computation  
+- MLOps, Cloud, CI/CD & scalable production ML systems  
+- GenAI, Multi-Agent AI & LLM Fine-Tuning
 
 📌 *Turning ideas into intelligent, working AI products.*
 
@@ -28,7 +26,7 @@
 ## Mastered Technologies & Topics
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,sklearn,tensorflow,pytorch,fastapi,django,flask,postgres,mysql,sqlite,git,linux,aws,gcp,docker" />
+<img src="https://skillicons.dev/icons?i=python,git,linux,docker,aws,gcp,tensorflow,pytorch,fastapi,django,flask,postgres,mysql,sqlite" />
 </p>
 
 ---
