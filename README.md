@@ -25,10 +25,10 @@
 
 ---
 
-## 🚀 Mastered Technologies & Topics
+## Mastered Technologies & Topics
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,linux,vue,docker,git,aws,gcp,postgres,arduino,raspberrypi,github,android,ios,bash,ts,react,graphql,windows,babel,webpack,pwa" />
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,sklearn,tensorflow,pytorch,fastapi,django,flask,postgres,mysql,sqlite,git,linux,aws,gcp,docker" />
 </p>
 
 ---
