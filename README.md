@@ -18,8 +18,9 @@
 ## 📊 Commit Activity Per Time of Day
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/simonlecoq/simonlecoq/master/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/Thameempp/Thameempp/master/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
+
 
 ---
 
