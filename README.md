@@ -5,10 +5,10 @@
 <tr>
 <td width="60%">
 ### Machine Learning Engineer
-- Specializing in **Deep Learning, NLP & Computer Vision**
-- Skilled with **NumPy & Pandas** for numerical computing & data transformation
-- Experienced in **MLOps, Cloud, CI/CD & scalable production ML systems**
-- Exploring **GenAI, Multi-Agent AI & LLM Fine-Tuning**
+- **Deep Learning, NLP & Computer Vision**  
+- High-performance computing with **<span style="color:#FFD369;">NumPy & Pandas</span>**
+- **MLOps, Cloud Infrastructure & Automated CI/CD** pipelines  
+- **<span style="color:#FF8100;">GenAI, Multi-Agent AI, LLM Ops & Fine-Tuning</span>**
 
 📌 *Turning ideas into intelligent, working AI products.*
 
