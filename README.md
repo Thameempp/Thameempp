@@ -1,4 +1,4 @@
-# 👋 Hi, I'm <a href="https://github.com/Thameempp" style="color:#58a6ff; text-decoration:none;">Thameem</a>
+# 👋 Hey, I'm <a href="https://github.com/Thameempp" style="color:#58a6ff; text-decoration:none;">Thameem</a>
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
