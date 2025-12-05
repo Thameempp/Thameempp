@@ -5,6 +5,8 @@
 <tr>
 <td width="60%">
 ### Machine Learning Engineer
+###  <span style="color:#00E5FF;">Core Strengths</span>
+
 - **Deep Learning, NLP & Computer Vision**  
 - High-performance computing with **<span style="color:#FFD369;">NumPy & Pandas</span>**
 - **MLOps, Cloud Infrastructure & Automated CI/CD** pipelines  
